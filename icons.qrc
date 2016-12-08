@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>assets/open_model_16.png</file>
+        <file>assets/help_128_hover.png</file>
+        <file>assets/help_128.png</file>
+        <file>assets/open_camera_128_hover.png</file>
+        <file>assets/open_camera_128.png</file>
+        <file>assets/open_model_128_hover.png</file>
+        <file>assets/open_model_128.png</file>
+        <file>assets/open_video_128_hover</file>
+        <file>assets/open_video_128.png</file>
+        <file>assets/initial_view_32_hover.png</file>
+        <file>assets/initial_view_32.png</file>
+        <file>assets/bt_iv.png</file>
+        <file>assets/bt_ss.png</file>
+        <file>assets/bt_cm.png</file>
+        <file>assets/bt_hp.png</file>
+        <file>assets/bt_md.png</file>
+        <file>assets/bt_vd.png</file>
+        <file>assets/bt_cm-h.png</file>
+        <file>assets/bt_hp-h.png</file>
+        <file>assets/bt_iv-h.png</file>
+        <file>assets/bt_md-h.png</file>
+        <file>assets/bt_mv-h.png</file>
+        <file>assets/bt_mv.png</file>
+        <file>assets/bt_rt-h.png</file>
+        <file>assets/bt_rt.png</file>
+        <file>assets/bt_ss-h.png</file>
+        <file>assets/bt_vd-h.png</file>
+        <file>assets/ic_db1.png</file>
+        <file>assets/ic_ply.png</file>
+        <file>assets/ic_pts.png</file>
+        <file>assets/ic_video.png</file>
+        <file>assets/bt_ex-h.png</file>
+        <file>assets/bt_ex.png</file>
+        <file>assets/radio_check.png</file>
+        <file>assets/radio_uncheck.png</file>
+    </qresource>
+</RCC>
