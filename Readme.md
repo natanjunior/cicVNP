@@ -25,3 +25,11 @@ sudo apt-get install libglu1-mesa-dev -y
 ### Importar projeto no Qt
 
 Para importar o projeto no Qt basta abrir o arquivo `visualizador\VoqxQt3.pro`
+
+### Instalação das câmeras
+
+Link para instalação das câmeras Bumblebee XB3
+
+* [Drives da câmera](https://www.ptgrey.com/bumblebee-xb3-1394b-stereo-vision-camera-systems-2)
+* [Instalação da FlyCapture](https://www.ptgrey.com/tan/10548)
+* [Triclops](https://www.ptgrey.com/triclops)
